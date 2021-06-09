@@ -1,5 +1,9 @@
 # Neural Network Sniffs
-
+Hubert Wang
+  
+ <p align="right"><i>In me the tiger sniffs the rose. &nbsp&nbsp&nbsp&nbsp</i></p>
+ <p align="right"><i>   -- Siegfried Sassoon</i></p>
+  
 ## Intro
 Neural Network Sniffs is a side project that I do for fun. The project is themed around perfumes with data from nosetime.com, a Chinese perfume lover community. Thanks to the work done by nosetime.com and its users, I am able to get free access to data of more than 30k perfumes from more than 1,000 brands. For most of the perfumes nosetime.com provides well-structured info including gender, [fragrance family](https://en.wikipedia.org/wiki/Aroma_compound), [notes](https://en.wikipedia.org/wiki/Note_(perfumery)) (including top, middle, and base notes), score & duration (rated by users).  
 
